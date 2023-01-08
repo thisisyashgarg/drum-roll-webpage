@@ -1,0 +1,20 @@
+{
+  "name": "drum-kit-webpage",
+  "version": "1.0.0",
+  "description": "![alt text](./images/Screenshot%202022-11-23%20at%2012.33.34%20PM.png)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisyashgarg/drum-roll-webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisisyashgarg/drum-roll-webpage/issues"
+  },
+  "homepage": "https://github.com/thisisyashgarg/drum-roll-webpage#readme"
+}
